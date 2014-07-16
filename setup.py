@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '2.1-npo'
+version = '2.2.dev0'
 
 setup(name='Products.Ploneboard',
       version=version,

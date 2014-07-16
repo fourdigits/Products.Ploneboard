@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.2 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
 2.1-npo (2014-07-16)
 --------------------
 
